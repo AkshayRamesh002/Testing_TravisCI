@@ -1,2 +1,2 @@
-print "Hello world!".f.sfa/
-//fail build test
+print "Hello world!"
+print "Hello Team City"
